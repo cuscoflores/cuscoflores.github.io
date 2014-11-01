@@ -1,2 +1,19 @@
 highlighter: pygments
-github: [Repository metada]
+safe: true
+lsi: false
+source: .
+# Site settings
+title: Cusco Flores Github-Organization
+email: cuscofloresperu@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Cusco Flores was created just experimental, broder and sister back in house with
+  old ideas, projects failed, and we must todo something to justify our days in house as old times
+  but above the 30s. This was a journey for us and we are happy to have something nicelly done finally.
+  ... By the way, we are in Github because we have the same feeling of sharing things...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cuscoflores.github.io" # the base hostname & protocol for your site
+twitter_username: nitanilla
+github_username:  nitanilla
+
+# Build settings
+markdown: kramdown
