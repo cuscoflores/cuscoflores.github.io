@@ -7,9 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
   but above the 30s. This was a journey for us and we are happy to have something nicelly done finally.
   ... By the way, we are in Github because we have the same feeling of sharing things...
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://cuscoflores.github.io" # the base hostname & protocol for your site
+twitter_username: nitanilla
+github_username:  nitanilla
 
 # Build settings
 markdown: kramdown
